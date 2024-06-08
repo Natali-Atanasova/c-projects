@@ -1,0 +1,5 @@
+﻿  funcOverload.cpp
+C:\Users\atana\Desktop\funcOverload\funcOverload\funcOverload.cpp(15,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\atana\Desktop\funcOverload\funcOverload\funcOverload.cpp(15,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\atana\Desktop\funcOverload\funcOverload\funcOverload.cpp(15,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  funcOverload.vcxproj -> C:\Users\atana\Desktop\funcOverload\x64\Debug\funcOverload.exe

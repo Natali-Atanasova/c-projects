@@ -1,0 +1,8 @@
+﻿  CPP3.cpp
+C:\Users\atana\Desktop\CPP3\CPP3\CPP3.cpp(24,26): error C2100: illegal indirection
+C:\Users\atana\Desktop\CPP3\CPP3\CPP3.cpp(25,13): error C2100: illegal indirection
+C:\Users\atana\Desktop\CPP3\CPP3\CPP3.cpp(27,30): error C2100: illegal indirection
+C:\Users\atana\Desktop\CPP3\CPP3\CPP3.cpp(28,17): error C2100: illegal indirection
+C:\Users\atana\Desktop\CPP3\CPP3\CPP3.cpp(31,5): error C2601: 'main': local function definitions are illegal
+C:\Users\atana\Desktop\CPP3\CPP3\CPP3.cpp(23,36): message : this line contains a '{' which has not yet been matched
+C:\Users\atana\Desktop\CPP3\CPP3\CPP3.cpp(23,36): fatal  error C1075: '{': no matching token found
